@@ -1,0 +1,8 @@
+bucket:
+  strip: 1
+packages:
+  - name: school
+    actions:
+      - name: import
+        runtime: python:3
+      
